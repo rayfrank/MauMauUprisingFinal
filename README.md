@@ -1,2 +1,2 @@
 # MauMauUprisingFinal
-An FPS game based on the Mau Mau Uprising in Kenya
+The game draws inspiration from the **Mau Mau uprising**, a significant movement in Kenya's history where freedom fighters sought independence from British colonial rule.
